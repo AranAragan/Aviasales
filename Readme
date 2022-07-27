@@ -1,9 +1,5 @@
 To run tests in the Chrome browser
--------------------------
  npx playwright test --headed
 
- ========================
-
 To run tests in headless mode
--------------------------
  npx playwright test
