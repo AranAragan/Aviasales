@@ -1,0 +1,21 @@
+{
+  "name": "aviasales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AranAragan/Aviasales.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AranAragan/Aviasales/issues"
+  },
+  "homepage": "https://github.com/AranAragan/Aviasales#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.1"
+  }
+}
